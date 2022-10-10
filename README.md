@@ -9,7 +9,6 @@ Developer, Designer Ui/Ux
 
 I am a software engineer and ui/ux designer focused on web development projects with python , php and database administration . I am generally working on personal projects to grow my skills up, though i also have interest in other fields.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on alx-udacity fullstack developper projects and still working on personal projects involving my skills in design ui/ux, javascript, Python and php
 - 🌱 I’m currently learning in database administration, algorithmic, ui/ux design and web development
