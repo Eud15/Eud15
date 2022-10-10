@@ -8,7 +8,7 @@ I am a software engineer and ui/ux designer focused on web development projects 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on alx-udacity fullstack developper projects and still working on personal projects involving my skills in design ui/ux, javascript, Python and php
-- 🌱 I’m currently learning in database administration, algorithmique, ui/ux design and web development
+- 🌱 I’m currently learning in database administration, algorithmic, ui/ux design and web development
 - 👯 I’m looking to collaborate on open source projects which are relative to python or php
 - 🤔 I’m looking for help with any of my public repositories and all person who want to collaborate with me.
 - 💬 Ask me about  ui/ux design, frontend architecture and database implementation
