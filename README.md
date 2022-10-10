@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 -----------------------------
 <p align="center"><a href="http://www.github.com/Eud15"><img src="https://github-readme-stats.vercel.app/api?username=Eud15&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=134e4a&hide_border=true&show_icons=true" alt="Eudoxie's GitHub stats" /></a></p>
 
+
 ## <p align="center">Skills:</p>
 
 <p align="center">
