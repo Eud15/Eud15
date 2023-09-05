@@ -22,6 +22,17 @@ I am a software engineer and ui/ux designer focused on web development projects 
 -----------------------------
 <p align="center"><a href="http://www.github.com/Eud15"><img src="https://github-readme-stats.vercel.app/api?username=Eud15&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=134e4a&hide_border=true&show_icons=true" alt="Eudoxie's GitHub stats" /></a></p>
 
+<!--
+[![](https://raw.githubusercontent.com/Eud15/Eud15/version-2/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+-->
+
+[![](https://raw.githubusercontent.com/Eud15/Pericles001/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Eud15/Eud15/main/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Eud15/Eud15/main/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Eud15/Eud15/main/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
+
+
+
 
 ## <p align="center">Tools & Technologies :</p>
 
