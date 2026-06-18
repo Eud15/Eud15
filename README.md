@@ -139,10 +139,10 @@ Teleconsultation, pregnancy & menopause journeys, health tracking for the Africa
 ## 🌱 Currently
 
 - 🔭 Building **PowerHub**, a pan-African women's leadership platform
-- 🤖 Leading AI adoption at **MTN Bénin** during my CEO Office rotation
+- 🤖 Leading AI adoption at **MTN Bénin**
 - 🎓 Completing my **Master's in AI** at DIT Dakar
 - 👩‍🏫 Mentoring women in tech across Bénin and francophone Africa
-- 💬 Ask me about fullstack engineering, AI adoption strategy, and women in tech
+- 💬 Ask me about fullstack engineering, AI engineering, AI adoption strategy, and women in tech
 
 ---
 
