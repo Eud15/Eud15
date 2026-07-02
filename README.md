@@ -45,7 +45,7 @@ Power Automate       ██████████░░░░░░   Automati
 
 ---
 
-## 🛠️ Tech stack
+## Tech stack
 
 <div align="center">
 
