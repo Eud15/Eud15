@@ -8,7 +8,7 @@
 
 ---
 
-## 🧠 About me
+## About me
 
 I'm a **Software Engineer and AI Adoption Lead** at **MTN Bénin**. I'm also completing a **Master's in Artificial Intelligence** at the Dakar Institute of Technology (DIT).
 
@@ -23,7 +23,7 @@ I build fullstack platforms and AI-powered tools that serve the African market, 
 
 ---
 
-## 🤖 AI Engineering
+## AI Engineering
 
 ```
 Deep Learning        ██████████████░░   CNN · MobileNetV2 · Transfer Learning
@@ -85,7 +85,7 @@ Power Automate       ██████████░░░░░░   Automati
 
 ---
 
-## 🚀 Projects
+## Projects
 
 **🔮 PowerHub : Fondation Sename**
 > Pan-African women's leadership platform. Django · MongoEngine · Vue 3 · Docker · Hostinger VPS
@@ -105,7 +105,7 @@ Teleconsultation, pregnancy & menopause journeys, health tracking for the Africa
 
 ---
 
-## 📊 Impact
+## Impact
 
 <div align="center">
 
@@ -123,7 +123,7 @@ Teleconsultation, pregnancy & menopause journeys, health tracking for the Africa
 
 ---
 
-## 📈 GitHub stats
+## GitHub stats
 
 <div align="center">
 
@@ -136,7 +136,7 @@ Teleconsultation, pregnancy & menopause journeys, health tracking for the Africa
 
 ---
 
-## 🌱 Currently
+## Currently
 
 - 🔭 Building **PowerHub**, a pan-African women's leadership platform
 - 🤖 Leading AI adoption at **MTN Bénin**
@@ -146,7 +146,7 @@ Teleconsultation, pregnancy & menopause journeys, health tracking for the Africa
 
 ---
 
-## 🤝 Let's connect
+##  Let's connect
 
 <div align="center">
 
